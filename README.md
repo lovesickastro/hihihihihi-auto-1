@@ -1,2 +1,1 @@
-# hihihihihi-auto-1
-Nyx JSDelivr SVG publisher output
+Thank you to Nyx link gen for making these!
